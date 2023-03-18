@@ -10,7 +10,7 @@ body {
   margin: 0 auto;
   padding: 0 80px;
   position: relative;
-  max-width: 100%;
+ width: 100%;
   overflow-y: auto;
   overflow-x: hidden;
   background-color: #1F1D2B;
