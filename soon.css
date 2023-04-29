@@ -16,8 +16,6 @@ body {
 .landingpage::before {
   content: "";
   position: absolute;
-  width: 123px;
-  height: 123px;
   left: 60%;
   top: 138px;
   filter: blur(90px);
