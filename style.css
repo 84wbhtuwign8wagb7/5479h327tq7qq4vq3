@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background-color: #252954;
-  font-size: 15pt;
+  font-s
 }
 
 .hidden {
@@ -845,7 +845,7 @@ body {
 }
 @media screen and (max-width: 480px) {
   .landingpage .box .infobox-boldtext {
-    font-size: 32px;
+    font-size: 29pt;
     line-height: 1.4em;
     text-align: center;
   }
