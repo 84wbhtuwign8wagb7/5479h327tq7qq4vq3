@@ -128,8 +128,9 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
-     animation: background-animation 10s ease-in-out infinite;
-
+  animation-name: rightslide;
+  animation-duration: 0.8s;
+    
 }
 
 @keyframes background-animation {
@@ -749,6 +750,8 @@ body {
   .hamburger {
     display: flex !important;
     align-items: center;
+    animation-name: rightslide;
+  animation-duration: 0.8s;
   }
 
   .started-slimtext {
