@@ -696,7 +696,7 @@ body {
 
 @media screen and (max-width: 1500px) {
   .landingpage {
-    max-width: 1200px;
+    max-width: 100%;
   }
 }
 @media screen and (max-width: 1040px) {
