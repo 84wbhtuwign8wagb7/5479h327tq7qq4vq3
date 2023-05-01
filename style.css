@@ -1369,7 +1369,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(#D5A3FF 0%, #77A5F8 100%);
+  background: #1F1D2B;
 }
 .wrapper{
   width: 350px;
