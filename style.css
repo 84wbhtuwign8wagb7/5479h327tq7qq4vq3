@@ -12,7 +12,7 @@ body {
   margin: 0 auto;
   padding: 0 80px;
   position: relative;
-  max-width: 19000px;
+  width: 19000px;
   overflow-y: auto;
   overflow-x: hidden;
   background-color: #1F1D2B;
